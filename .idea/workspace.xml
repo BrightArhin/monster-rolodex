@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e4c21b-31dc-4bd4-86d5-086ec92e5de1" name="Default Changelist" comment="Card List Components">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5e4c21b-31dc-4bd4-86d5-086ec92e5de1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <workItem from="1576836464776" duration="641000" />
       <workItem from="1576837414468" duration="7187000" />
       <workItem from="1576848254203" duration="1267000" />
-      <workItem from="1577365495516" duration="6561000" />
+      <workItem from="1577365495516" duration="6801000" />
     </task>
     <task id="LOCAL-00001" summary="Project Default">
       <created>1577439091357</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577439220679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Card List Components">
+      <created>1577439286393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577439286393</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
